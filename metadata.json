@@ -1,0 +1,6 @@
+{
+  "name": "Stayflow Hotel Pulse",
+  "description": "Operations and reservation management system for 22 Boutique Hotel.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
